@@ -140,8 +140,7 @@ Maybe there are other ways, but a way to show an image in your markdown file is 
 
 
 ### Take advantage of the HTML attributes <a name="HTMLattributes"></a>
-  * Insert sizes and alignment to the right `<img align="right"  width="50" height="50" src="src/Tux.png">`
-  <img align="right"  width="100" height="100" src="src/Tux.png">
+  * Insert sizes and alignment to the right `<img align="right"  width="50" height="50" src="src/Tux.png">` <img align="right"  width="100" height="100" src="src/Tux.png">
 
 
 
