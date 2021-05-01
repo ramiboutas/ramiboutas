@@ -7,11 +7,11 @@ I am working on this, links, cheat sheets and other material will be displayed h
 - 🌱 I’m currently learning Django,
 - 👯 I’m looking to collaborate on Django projects
 - 🤔 I’m looking for help with everything in life, but I am able to figure it out by myself :)
-- 📫 How to reach me via:
+- 📫 How to reach me via: <img align="right" valign="top" width="200" height="200" src="images/birthlocation.jpg">
   - [Linkedin][myLinkedinPage]
   - [Telegram][myTelegramPage]
   - [Instagram][myInstagramPage]
-- ⚡ Fun fact: I was born at home in the [Rif][Riflink] & Im proud of it  &#8594; <img align="right" width="200" height="200" src="images/birthlocation.jpg">
+- ⚡ Fun fact: I was born at home in the [Rif][Riflink] & Im proud of it  &#8594;
 
 
 ## My cheat sheets
