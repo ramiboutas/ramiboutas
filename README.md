@@ -1,5 +1,13 @@
 ### Hi there 👋
 
+I am working on this, links, cheat sheets and other material will be displayed here :)
+
+## My cheat sheets
+* [Markdown (.MD files)](markdown/README.md)
+* [Django stuff](django/README.md)
+
+
+
 
 
 <!--
