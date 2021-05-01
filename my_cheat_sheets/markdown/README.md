@@ -92,7 +92,7 @@ And you will see the following:
 > "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 
 
-## Links and images
+## Links
 
 You can build a link as following:
 ```
@@ -113,8 +113,12 @@ And at the end of your document declare all you link variables:
 [another_link_variable]: https://www.example.org
 ```
 
-[Germany flag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png)
+## Images
 
+[Rif location](src/RifLocation.png)
+
+
+<img align="right" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png">
 
 ## Special characters
 
