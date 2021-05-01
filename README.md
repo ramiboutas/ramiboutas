@@ -7,7 +7,10 @@ I am working on this, links, cheat sheets and other material will be displayed h
 * [Django stuff](my_cheat_sheets/django/README.md)
 
 
+## Image
 
+
+[Image](https://www.instagram.com/p/dNhzfjicwE/)
 
 
 <!--
@@ -15,12 +18,16 @@ I am working on this, links, cheat sheets and other material will be displayed h
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
+- 🔭 I’m currently working as Service engineer at [AIP](https://www.aip-automotive.de/en/)
+- 🌱 I’m currently learning Django,
+- 👯 I’m looking to collaborate on Django projects
+- 🤔 I’m looking for help with everything in life, but I am able to figure it out my self
+- 📫 How to reach me via:
+  - [Linkedin](https://www.linkedin.com/in/ramiboutas/)
+  - [Telegram](https://t.me/ramiboutas)
+  - [Instagram](https://www.instagram.com/ramiboutas/)
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+- ⚡ Fun fact:
+  - I was born at home
+  -
 -->
