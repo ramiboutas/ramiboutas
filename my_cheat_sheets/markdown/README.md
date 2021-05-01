@@ -19,7 +19,79 @@ Here I am just describing relevant aspects of Markdown texts
 * There are other ways to do the last one but personally I'll stick with this one :)
 
 
+## Lists
+
+### Unordered lists
+
+If I write:
+```
+* Item 1
+* Item 2
+* Item 3
+```
+or
+```
++ Item 1
++ Item 2
++ Item 3
+```
+or even
+```
+- Item 1
+- Item 2
+- Item 3
+```
+
+I will see:
+* Item 1
+* Item 2
+* Item 3
+
+### Ordered lists
+
+Here you need just to put numbers with a dot
+
+```
+1. Item 1
+2. Item 2
+3. Item 3
+```
+
+And you see the following:
+
+1. Item 1
+2. Item 2
+3. Item 3
+
+### List inside a list
+
+You can also stuff like this:
+```
+1. Item 1
+   1. Subitem 1.1
+   2. Subitem 1.2
+2. Item 2
+   - Subitem one
+   - Subitem two
+```
+And you'll get:
+1. Item 1
+   1. Subitem 1.1
+   2. Subitem 1.2
+2. Item 2
+   - Subitem one
+   - Subitem two
+
+## Cites
+In order to cite a quote use this:
+```
+> "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+```
+And you will see the following:
+
+> "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
+
 
 ## Special characters
 
-<!-- link to some place with all the special characters -->
+I will link this part to some place when I find a good reference
