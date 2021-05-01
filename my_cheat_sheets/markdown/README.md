@@ -4,9 +4,9 @@ Here I am just describing relevant aspects of Markdown texts
 # Table of contents
 1. [Headings](#headings)
 2. [Lists](#lists)
-    * [Unordered lists](unorderedlists)
-    * [Ordered lists](orderedlists)
-    * [List inside a list](listinsidealist)
+    * [Unordered lists](#unorderedlists)
+    * [Ordered lists](#orderedlists)
+    * [List inside a list](#listinsidealist)
 3. [Cites](#cites)
 4. [Links](#links)
    * [Working with clean links with variables](#linkvariables)
