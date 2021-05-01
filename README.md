@@ -3,8 +3,8 @@
 I am working on this, links, cheat sheets and other material will be displayed here :)
 
 ## My cheat sheets
-* [Markdown (.MD files)](markdown/README.md)
-* [Django stuff](django/README.md)
+* [Markdown (.MD files)](my_cheat_sheets/markdown/README.md)
+* [Django stuff](my_cheat_sheets/django/README.md)
 
 
 
