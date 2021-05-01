@@ -92,6 +92,21 @@ And you will see the following:
 > "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 
 
+## Links
+
+You can build a link as following:
+```
+[Link text](https://www.example.com "Text to be displayed when mouse is over")
+```
+And you'll see:
+[Link text](https://www.example.com "Text to be displayed when mouse is over")
+
+### Working with clean links with variables
+```
+If you don't want to place a very large url such as [go here](http://www.example.com/?whatever=true&blablal=5&user=150195019053) in your text or you want to reuse a link multimple time you can use the following:
+```
+
+
 ## Special characters
 
 I will link this part to some place when I find a good reference
