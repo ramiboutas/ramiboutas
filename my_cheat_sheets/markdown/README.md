@@ -14,6 +14,9 @@ Here I am just describing relevant aspects of Markdown texts
    * [Take advantage of the HTML attributes](#HTMLattributes)
 6. [Special characters](#specialcharacters)
 
+How to create a table of content like this one? [Check out this StackOverFlow link](https://stackoverflow.com/questions/11948245/markdown-to-create-pages-and-table-of-contents)
+
+
 ## Headings <a name="headings"></a>
 
 * # Heading 1: `# Heading 1` (similar to `<h1>` in HTML)
@@ -22,6 +25,8 @@ Here I am just describing relevant aspects of Markdown texts
 * #### Heading 4: `#### Heading 4` (similar to `<h4>` in HTML)
 * ##### Heading 5: `##### Heading 5` (similar to `<h5>` in HTML)
 * ###### Heading 6: `###### Heading 6` (similar to `<h6>` in HTML)
+
+
 
 
 ## Text formats <a name="textformats"></a>
