@@ -115,10 +115,12 @@ And at the end of your document declare all you link variables:
 
 ## Images
 
-[Rif location](src/RifLocation.png)
+Maybe there are other ways, but a way to show an image in your markdown file is by using the `<img>` HTML tag.
 
+You can either show an image on the internet
 
-<img align="right" width="150" height="150" src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png">
+<img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png"> In oder to ge
+
 
 ## Special characters
 
