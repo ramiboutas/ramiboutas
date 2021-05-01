@@ -11,7 +11,7 @@ I am working on this, links, cheat sheets and other material will be displayed h
   - [Linkedin][myLinkedinPage]
   - [Telegram][myTelegramPage]
   - [Instagram][myInstagramPage]
-- ⚡ Fun fact: I was born at home in the [Rif][Riflink] & Im proud of it  &#8594;
+- ⚡ Fun fact: I was born at home in the [Rif][Riflink] & I'm proud of it  &#8594;
 
 
 ## My cheat sheets
