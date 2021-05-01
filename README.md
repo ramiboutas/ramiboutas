@@ -29,5 +29,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact:
   - I was born at home
+[Foto where I was born](images/birthlocation.jpg)  
   -
 -->
