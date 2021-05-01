@@ -92,7 +92,7 @@ And you will see the following:
 > "Education is the most powerful weapon which you can use to change the world." - Nelson Mandela
 
 
-## Links
+## Links and images
 
 You can build a link as following:
 ```
@@ -102,13 +102,18 @@ And you'll see:
 [Link text](https://www.example.com "Text to be displayed when mouse is over")
 
 ### Working with clean links with variables
+
+If you don't want to place a very large url such as `[go here](http://www.example.com/?whatever=true&blablal=5&user=150195019053)` in your text or you want to reuse a link multiple time you can do the following:
+
+`[My link][my_link_variable]`
+
+And at the end of your document declare all you link variables:
+```
+[my_link_variable]: https://www.example.com
+[another_link_variable]: https://www.example.org
 ```
 
-If you don't want to place a very large url such as
-[go here](http://www.example.com/?whatever=true&blablal=5&user=150195019053)
-in your text or you want to reuse a link multimple time you can use the following:
-
-```
+[Germany flag](https://upload.wikimedia.org/wikipedia/commons/thumb/b/ba/Flag_of_Germany.svg/1920px-Flag_of_Germany.svg.png)
 
 
 ## Special characters
