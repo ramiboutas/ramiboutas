@@ -20,7 +20,7 @@ I am working on this, links, cheat sheets and other material will be displayed h
 
 
 <!-- links used in this file -->
-[AIPLink]:https://www.aip-automotive.de/en/
+[AIPLink]:(https://www.aip-automotive.de/en/){:target="_blank"}
 [Riflink]:https://en.wikipedia.org/wiki/Rif
 [myLinkedinPage]:https://www.linkedin.com/in/ramiboutas/
 [myTelegramPage]:https://t.me/ramiboutas
