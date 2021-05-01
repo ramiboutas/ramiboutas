@@ -103,7 +103,11 @@ And you'll see:
 
 ### Working with clean links with variables
 ```
-If you don't want to place a very large url such as [go here](http://www.example.com/?whatever=true&blablal=5&user=150195019053) in your text or you want to reuse a link multimple time you can use the following:
+
+If you don't want to place a very large url such as
+[go here](http://www.example.com/?whatever=true&blablal=5&user=150195019053)
+in your text or you want to reuse a link multimple time you can use the following:
+
 ```
 
 
