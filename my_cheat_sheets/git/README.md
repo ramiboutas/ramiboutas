@@ -19,9 +19,7 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Commit Changes: `git commit -m "{description of changes}"`
 * Adding & Commiting: `git commit -am "{description of changes}"`
 
-### Updating the remote repo and getting updates from it
-
-<img heigth=100 align="right" src="images/pushpull.png">
+### Updating the remote repo and getting updates from it - [Image](images/pushpull.png)
 
 * Updating the repo (for the first time): `git push -u origin <branch_remote_repo>`
 * Updating the repo: `git push`
@@ -37,9 +35,9 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Come back to the remote repo:  `git reset --hard origin/<branch_remote_repo> `
 
 
-### Branching
+### Branching - [Image](images/branching.png)
 
 * Get all the branches you have and points out in which one you're working on: `git branch`
 * Create a new branch: `git checkout -b <new_branch>`
 * Switch branch  `git checkout <branch_to_go>`
-*
+* Merge branches (when located on master/main branch): `git merge <feature_branch>`
