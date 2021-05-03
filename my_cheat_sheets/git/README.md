@@ -21,10 +21,12 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 
 ### Updating the remote repo and getting updates from it
 
+<img heigth=250 align="right" src="images/pushpull.png">
+
 * Updating the repo (for the first time): `git push -u origin <branch_remote_repo>`
 * Updating the repo: `git push`
 * Getting the updates (other contributors did some changes and you need the last update): `git pull`
-<img align="right" src="images/pushpull.png">
+
 
 
 ###  Status, log and reset commands
