@@ -25,7 +25,7 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Updating the repo: `git push`
 * Getting the updates (other contributors did some changes and you need the last update): `git pull`
 
-<img align="center" width="500" src="images/pushpull.png">
+<img align="center" width="400" src="images/pushpull.png">
 
 ###  Status, log and reset commands
 
@@ -43,4 +43,4 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Merge branches (when located on master/main branch): `git merge <feature_branch>`
 
 
-<img width="500" src="images/branching.png">
+<img width="600" src="images/branching.png">
