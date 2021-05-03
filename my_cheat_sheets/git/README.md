@@ -24,8 +24,7 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Updating the repo (for the first time): `git push -u origin <branch_remote_repo>`
 * Updating the repo: `git push`
 * Getting the updates (other contributors did some changes and you need the last update): `git pull`
-
-<img height=200 align="center" src="images/pushpull.png">
+<img align="right" src="images/pushpull.png">
 
 
 ###  Status, log and reset commands
@@ -41,3 +40,4 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Get all the branches you have and points out in which one you're working on: `git branch`
 * Create a new branch: `git checkout -b <new_branch>`
 * Switch branch  `git checkout <branch_to_go>`
+*
