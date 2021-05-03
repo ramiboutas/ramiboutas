@@ -23,3 +23,5 @@ Git: [https://git-scm.com/](https://git-scm.com/)
 
 * Updating the repo: `git push`
 * Getting the updates (other contributors did some changes and you need the last update): `git pull`
+
+<img align="center" src="images/pushpull.png">
