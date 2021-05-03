@@ -25,7 +25,7 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Updating the repo: `git push`
 * Getting the updates (other contributors did some changes and you need the last update): `git pull`
 
-
+<img align="center" width="400" src="images/pushpull.png">
 
 ###  Status, log and reset commands
 
@@ -41,3 +41,6 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Create a new branch: `git checkout -b <new_branch>`
 * Switch branch  `git checkout <branch_to_go>`
 * Merge branches (when located on master/main branch): `git merge <feature_branch>`
+
+
+<img align="center" width="400" src="images/branching.png">
