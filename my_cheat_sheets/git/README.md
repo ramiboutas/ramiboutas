@@ -21,7 +21,7 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 
 ### Updating the remote repo and getting updates from it
 
-<img heigth=150 align="right" src="images/pushpull.png">
+<img heigth=100 align="right" src="images/pushpull.png">
 
 * Updating the repo (for the first time): `git push -u origin <branch_remote_repo>`
 * Updating the repo: `git push`
