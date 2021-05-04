@@ -32,13 +32,9 @@ Install from requirements  |  `pip install -r requirements.txt`
 
 
 
-## Understanding the settings
-Task  |  Command
---|--
-BASE_DIR  |  is where your *manage.py* lies
-PROJECT_ROOT  |  is BASE_DIR + your_project_name (where *settings.py* is)
-
 
 ## More
 
 ### [Register and customize your models in the admin area](myapp/admin.md)
+
+### [Understanding the settings](mysite/settings.md)
