@@ -12,7 +12,7 @@ This just to get the most relevant commands. Its purpose it not that you undersa
 * Clone a remote repo to a local PC: `git clone <ressoure>`
 
 ### Adding & commiting changes
-
+* Initialize a git repo: `git init` 
 * Adding files to staging area
   - One file: `git add <file>`
   - All files & folders in the current folder: `git add . `
