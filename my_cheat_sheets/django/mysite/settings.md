@@ -1,4 +1,5 @@
 
+[Return to Django main cheat sheet](../README.md)
 
 
 Task  |  Command
