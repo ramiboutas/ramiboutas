@@ -6,7 +6,7 @@ Task  |  Command
 --|--
 Create a virtual enviorement |  `python3 -m venv <folder_name_to_locate_the_venv> `
 Activate the venv (Linux & Mac)  | `source <folder_name_to_locate_the_venv>/bin/activate`
-Activate the venv (Linux & Mac)   |  `deactivate`
+Deactivate the venv (Linux & Mac)   |  `deactivate`
 
 
 #### First project
