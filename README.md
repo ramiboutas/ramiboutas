@@ -19,6 +19,7 @@ I am working on this, links, cheat sheets and other material will be displayed h
 * [Git & GitHub](my_cheat_sheets/git/README.md)
 * [Django](my_cheat_sheets/django/README.md)
 * [PostgreSQL](my_cheat_sheets/postgres/README.md)
+* [Linux terminal](my_cheat_sheets/linux/README.md)
 
 
 <!-- links used in this file -->
