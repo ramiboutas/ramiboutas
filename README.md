@@ -17,7 +17,8 @@ I am working on this, links, cheat sheets and other material will be displayed h
 ## My cheat sheets
 * [Markdown (.MD files)](my_cheat_sheets/markdown/README.md)
 * [Git & GitHub](my_cheat_sheets/git/README.md)
-* [Django stuff](my_cheat_sheets/django/README.md)
+* [Django](my_cheat_sheets/django/README.md)
+* [PostgreSQL](my_cheat_sheets/postgres/README.md)
 
 
 <!-- links used in this file -->
