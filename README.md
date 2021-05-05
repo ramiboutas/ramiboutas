@@ -10,12 +10,9 @@
 
 
 
-### Hi there 👋
+### Hi there 👋 who I am?
 
-I am working on this, links, cheat sheets and other material will be displayed here :)
-
-
-- 🔭 I’m currently working as Service engineer at [AIP][AIPLink]
+- 🔭 I’m currently working in Germany as a Service engineer at [AIP][AIPLink]
 - 🌱 I’m currently learning Django,
 - 👯 I’m looking to collaborate on Django projects
 - 🤔 I’m looking for help with everything in life, but I am able to figure it out by myself :)
@@ -23,7 +20,7 @@ I am working on this, links, cheat sheets and other material will be displayed h
   - [Linkedin][myLinkedinPage]
   - [Telegram][myTelegramPage]
   - [Instagram][myInstagramPage]
-- ⚡ Fun fact: I was born at home in the [Rif][Riflink] & I'm proud of it;
+- ⚡ Fun fact: I was born at home in the [Rif][Riflink] & I'm proud of it (see image above)
 <img src="images/birthlocation.jpg">
 
 
