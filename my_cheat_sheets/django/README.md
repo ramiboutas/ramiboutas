@@ -27,7 +27,7 @@ Run dev server in your local network |  `python manage.py runserver <your_local_
 ## Being productive
 Task  |  Command
 --|--
-Save venv packages in file | `pip freeze > requirements.txt`
+Save packages in file | `pip freeze > requirements.txt`
 Install from requirements  |  `pip install -r requirements.txt`
 
 
