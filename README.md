@@ -15,7 +15,7 @@
 
 - 🔭 I’m currently working in Germany as a Service engineer at [AIP][AIPLink]
 - 🌱 I’m currently learning Django and Web Development in General
-- :computer: I’m using Ubuntu 20.04 
+- :computer: I’m using [Ubuntu 20.04][ubuntu20_04]
 - 👯 I’m looking to collaborate on Django projects
 - 🤔 I’m looking for help with everything in life, but I am able to figure it out by myself :)
 - 📫 How to reach me via:
@@ -33,3 +33,4 @@
 [myLinkedinPage]:https://www.linkedin.com/in/ramiboutas/
 [myTelegramPage]:https://t.me/ramiboutas
 [myInstagramPage]:https://www.instagram.com/ramiboutas/
+[ubuntu20_04]:https://releases.ubuntu.com/20.04/
