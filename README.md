@@ -2,7 +2,7 @@
 * [Markdown (.MD files)](my_cheat_sheets/markdown/README.md)
 * [Git & GitHub](my_cheat_sheets/git/README.md)
 * [Django](my_cheat_sheets/django/README.md)
-* [PostgreSQL](my_cheat_sheets/postgres/README.md)
+* [PostgreSQL](my_cheat_sheets/postgresql/README.md)
 * [Linux terminal](my_cheat_sheets/linux/README.md)
 
 
@@ -20,7 +20,7 @@
   - [Linkedin][myLinkedinPage]
   - [Telegram][myTelegramPage]
   - [Instagram][myInstagramPage]
-- ⚡ Fun fact: I was born at home in the [Rif][Riflink] & I'm proud of it (see image above)
+- ⚡ Fun fact: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
 <img src="images/birthlocation.jpg">
 
 
