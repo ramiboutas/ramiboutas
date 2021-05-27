@@ -32,9 +32,10 @@ Install from requirements  |  `pip install -r requirements.txt`
 
 
 
-
-## More
-
-### [Register and customize your models in the admin area](myapp/admin.md)
+## Project folder
 
 ### [Understanding the settings](mysite/settings.md)
+
+## App
+
+### [Models stuff](myapp/admin.md)
