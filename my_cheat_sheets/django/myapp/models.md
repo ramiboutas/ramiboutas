@@ -71,7 +71,7 @@ class Profile(models.Model):
   def save(self, *args, **kwargs):
       super(Profile, self).save(*args, **kwargs)
       img = Image.open(self.image)
-      if img.height > 200 or im.width > 200:
+      if img.height > 200 or img.width > 200:
           new_size = (200, 200)
           # image proportion is manteined / we dont need to do extra work
           img.thumbnail(new_size)
