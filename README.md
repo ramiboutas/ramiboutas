@@ -8,6 +8,9 @@
 
 
 
+### Deployment
+* Digital Ocean 
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=f1af247b90c6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
 
@@ -15,9 +18,7 @@
 
 - 🔭 I’m currently working in Germany as a Service engineer at [AIP][AIPLink]
 - 🌱 I’m currently learning Django and Web Development in General
-- :computer: I’m using [Ubuntu 20.04][ubuntu20_04] 
-- I use Digital Ocean for deployment 
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=f1af247b90c6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
+- :computer: I’m using [Ubuntu 20.04][ubuntu20_04]
 - 👯 I’m looking to collaborate on Django projects
 - 🤔 I’m looking for help with everything in life, but I am able to figure it out by myself :)
 - 📫 How to reach me via:
