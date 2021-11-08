@@ -39,3 +39,6 @@ Install from requirements  |  `pip install -r requirements.txt`
 ## App
 
 ### [Models stuff](myapp/admin.md)
+
+### [Tests](myapp/tests.md)
+

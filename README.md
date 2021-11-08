@@ -8,6 +8,8 @@
 
 
 
+### Deployment platforms
+[![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=f1af247b90c6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
 
@@ -21,7 +23,6 @@
 - 📫 How to reach me via:
   - [Linkedin][myLinkedinPage]
   - [Telegram][myTelegramPage]
-  - [Instagram][myInstagramPage]
 - ⚡ Fun fact: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
 <img src="images/birthlocation.jpg">
 
