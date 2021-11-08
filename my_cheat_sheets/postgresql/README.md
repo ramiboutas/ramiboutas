@@ -15,7 +15,11 @@
 sudo -i -u postgres
 psql
 ```
-* Alternative: `sudo -u postgres psql`
+* Connect directly:
+```
+sudo -u postgres psql
+```
+
 
 ### Usefull command once inside postgres
 
@@ -34,6 +38,10 @@ ALTER ROLE myuser SET timezone TO 'UTC';
 ALTER ROLE myuser SET default_transaction_isolation TO 'read committed';
 ```
 
+### Enable user creating db:
+```
+ALTER USER myuser CREATEDB;
+```
 
 
 
