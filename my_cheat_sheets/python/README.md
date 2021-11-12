@@ -1,6 +1,7 @@
 # Python cheatsheet
 
 ## Data structures
+All this content is based on the SoloLearn [Python Data Structures](https://www.sololearn.com/learning/1159) course.
 ### Working with strings
 
 * count(str) returns how many times the str substring appears in the given string.
@@ -239,10 +240,53 @@ s.add_at_end(8)
 s.add_at_front(9)
 
 s.print_list() # output: 9 => 5 => 8 =>
-print(s.get_last_node())  # output: 8 
+print(s.get_last_node())  # output: 8
 ```
 
 
+### Graph
+
+Graphs are used to represent many real-life applications like networks, transportation paths of a city, and social network connections.
+
+A graph is a set of connected nodes where each node is called a Vertex and the connection between two of them is called an Edge.
+
+
 ```python
+class Graph():
+    def __init__(self, size):
+        self.adj = [ [0] * size for i in range(size)]
+        self.size = size
+
+    def add_edge(self, orig, dest):
+        if orig > self.size or dest > self.size or orig < 0 or dest < 0:
+            print("Invalid Edge")
+        else:
+            self.adj[orig-1][dest-1] = 1
+            self.adj[dest-1][orig-1] = 1
+
+    def remove_edge(self, orig, dest):
+        if orig > self.size or dest > self.size or orig < 0 or dest < 0:
+            print("Invalid Edge")
+        else:
+            self.adj[orig-1][dest-1] = 0
+            self.adj[dest-1][orig-1] = 0
+
+    def display(self):
+        for row in self.adj:
+            print()
+            for val in row:
+                print('{:4}'.format(val),end="")
+
+#a sample Graph
+G = Graph(4)
+G.add_edge(1, 3)
+G.add_edge(3, 4)
+G.add_edge(2, 4)
+G.display()
+# output:
+# 0   0   1   0
+# 0   0   0   1
+# 1   0   0   1
+# 0   1   1   0
 
 ```
