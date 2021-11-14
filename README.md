@@ -4,6 +4,7 @@
 * [Git & GitHub](my_cheat_sheets/git/README.md)
 * [Python](my_cheat_sheets/python/README.md)
 * [Django](my_cheat_sheets/django/README.md)
+* [HTMX](my_cheat_sheets/htmx/README.md)
 * [PostgreSQL](my_cheat_sheets/postgresql/README.md)
 * [Linux terminal](my_cheat_sheets/linux/README.md)
 
