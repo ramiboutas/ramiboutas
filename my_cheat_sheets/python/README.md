@@ -10,6 +10,16 @@ All this content is based on the SoloLearn [Python Data Structures](https://www.
 * replace(old, new) replaces all occurrences of old with new.
 len(str) returns the length of the string (number of characters).
 
+* f-String
+```python
+name = "Rami"
+print(f"Hello {name}") # output: Hello Rami
+```
+* join method
+```python
+list_of_strings = ["Hello", "my", "friend"]
+my_string_joined = " ".join(list_of_strings) # output: Hello my friend
+```
 
 
 ### Working with lists
@@ -41,6 +51,32 @@ evens = [i**2 for i in range(10) if i**2 % 2 == 0]
 print(evens) # output: [0, 4, 16, 36, 64]
 ```
 
+#### Useful functions
+* enumerate(lista_data): Getting the index and the number of a list
+```python
+data = [1, 2, 5, 6, 7]
+for idx, num in enumerate(data):
+    do_something(idx, num)
+```
+
+* sorted(list_data): Getting list sorted
+```python
+data = [1, 2, 5, 6, 7]
+sorted_list = sorted(data, reverse=True) # reverse is by default False.
+```
+* set(data): making our list data unique. the results will be a set data type
+```python
+data = [1, 1, 2, 2, 5, 6, 7, 7]
+unique_set = set(data) # <class 'set'>
+```
+* counter numbers in a list
+```python
+from collections import Counter
+data = [1, 1, 2, 2, 5, 6, 7, 7, 7]
+counts = Counter(data) # output: {1:2, 2:2, 5:1, 6:1, 7:3}
+# check most_common instance function
+```
+
 ### Working with dictionaries
 >  Use a dictionary, when you need a logical association between a key:value
 
@@ -56,7 +92,29 @@ pairs = {
 print(pairs.get("orange"))  # output: [2, 3, 4]
 print(pairs.get(7, 42))  # output: 42
 print(pairs.get(12345, "not found"))  # output: not found
+print(pairs["this-key-does-not-exist"])  # KeyError exception
 ```
+* set a default key in a dictionary if it does not exist
+```python
+my_dict={'name': 'John', 'age': 23}
+count=my_dict.setdefault("count", 0)
+print(my_dict) # output: {'name': 'John', 'age': 23, 'count': 0}
+```
+* sorted(dict_data): Getting a dictionary sorted by a key using lambda function as well
+```python
+my_dict = [
+    {"name": "John", "age": 24},
+    {"name": "Pepe", "age": 26},
+]
+sorted_dict = sorted(my_dict, key = lambda x: x["age"])
+```
+* merge dicts
+```python
+d1 = {"name": "Pepe", "age": 23}
+d2 = {"name": "Pepe", "city": "Madrid"}
+d = {**d1, **d2} # d -> {"name": "Pepe", "age": 23, "city": "Madrid"}
+```
+
 
 ### Working with tupples
 > - Use tuples when your data cannot/should not change.
@@ -91,6 +149,10 @@ print(b) # output: 2
 print(c) # output: [3, 4, 5, 6, 7, 8]
 print(d) # output: 9
 ```
+* For generating numbers it is better to use tupples than lists -> memory savings
+```python
+my_numbers = (i for i in range(100))
+```
 
 ### Working with sets
 > Use a set if you need uniqueness for the elements.
@@ -118,6 +180,7 @@ print(first - second) # output: {1, 2, 3}
 print(second - first) # output: {8, 9, 7}
 print(first ^ second) # output: {1, 2, 3, 7, 8, 9}
 ```
+
 ### Stacks
 > A stack can be implemented using a list in Python.
 
@@ -288,5 +351,4 @@ G.display()
 # 0   0   0   1
 # 1   0   0   1
 # 0   1   1   0
-
 ```
