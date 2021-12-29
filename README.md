@@ -25,11 +25,6 @@
 - ⚡ Fun fact: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
 <img src="images/birthlocation.jpg">
 
-
-### Other stuff
-
-![visitors](https://visitor-badge.laobi.icu/badge?page_id=ramiboutas.visitor-badge)
-
 <!-- links used in this file -->
 [Riflink]:https://en.wikipedia.org/wiki/Rif
 [myLinkedinPage]:https://www.linkedin.com/in/ramiboutas/
