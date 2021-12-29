@@ -26,6 +26,9 @@
 <img src="images/birthlocation.jpg">
 
 
+### Other stuff
+
+![visitors](https://visitor-badge.laobi.icu/badge?page_id=ramiboutas.visitor-badge)
 
 <!-- links used in this file -->
 [Riflink]:https://en.wikipedia.org/wiki/Rif
