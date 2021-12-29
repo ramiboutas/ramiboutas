@@ -17,12 +17,12 @@
 
 ### Hi there 👋 who I am?
 
-- 🌱 I’m currently learning Django and Web Development in General
 - :computer: I’m using [Ubuntu 20.04][ubuntu20_04]
 - 👯 I’m looking to collaborate on Django projects
 - 📫 How to reach me via:
   - [Linkedin][myLinkedinPage]
-- ⚡ Fun fact: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
+  - Per Post: Bei den Birken 8, 87435 Kempten (Germany) 
+- ⚡ A fact about me: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
 <img src="images/birthlocation.jpg">
 
 <!-- links used in this file -->
