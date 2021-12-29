@@ -1,6 +1,6 @@
 
 ### Hi there 👋 who I am?
-- My name is Rami, I a mechanical engineer & a passionate code writter
+- :technologist: I'm Rami, a mechanical & industrial engineer
 - :computer: I’m using [Ubuntu 20.04][ubuntu20_04]
 - 👯 I’m looking to collaborate on Django projects
 - 📫 How to reach me via:
