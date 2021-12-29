@@ -1,4 +1,16 @@
-## My cheat sheets
+
+### Hi there 👋 who I am?
+
+- :computer: I’m using [Ubuntu 20.04][ubuntu20_04]
+- 👯 I’m looking to collaborate on Django projects
+- 📫 How to reach me via:
+  - [Linkedin][myLinkedinPage]
+  - Per Post: Bei den Birken 8, 87435 Kempten (Germany) 
+- ⚡ A fact about me: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
+<img src="images/birthlocation.jpg">
+
+
+### My cheat sheets
 
 * [Markdown (.MD files)](my_cheat_sheets/markdown/README.md)
 * [Git & GitHub](my_cheat_sheets/git/README.md)
@@ -14,16 +26,6 @@
 [![DigitalOcean Referral Badge](https://web-platforms.sfo2.cdn.digitaloceanspaces.com/WWW/Badge%201.svg)](https://www.digitalocean.com/?refcode=f1af247b90c6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
 
 
-
-### Hi there 👋 who I am?
-
-- :computer: I’m using [Ubuntu 20.04][ubuntu20_04]
-- 👯 I’m looking to collaborate on Django projects
-- 📫 How to reach me via:
-  - [Linkedin][myLinkedinPage]
-  - Per Post: Bei den Birken 8, 87435 Kempten (Germany) 
-- ⚡ A fact about me: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
-<img src="images/birthlocation.jpg">
 
 <!-- links used in this file -->
 [Riflink]:https://en.wikipedia.org/wiki/Rif
