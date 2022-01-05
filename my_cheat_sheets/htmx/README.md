@@ -1,6 +1,13 @@
 # HTMX combined with django
 
 
+## Add csrf token to some HTTP methods
+* hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'
+```html
+<button class="btn btn-outline-secondary border-0" type="button" hx-post="{{ object.delete_item_url }}"
+hx-target="#item-it" hx-swap="outerHTML" hx-trigger="click" hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'>Delete item</button>
+```
+
 
 ## Send a trigger from the server and capture it from the client later
 * django view
