@@ -4,8 +4,12 @@
 ## Add csrf token to some HTTP methods
 * hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'
 ```html
-<button class="btn btn-outline-secondary border-0" type="button" hx-post="{{ object.delete_item_url }}"
-hx-target="#item-it" hx-swap="outerHTML" hx-trigger="click" hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'>Delete item</button>
+<button class="btn btn-primary" type="button"
+        hx-post="{{ object.delete_item_url }}"
+        hx-target="#item-it" hx-swap="outerHTML"
+        hx-trigger="click" hx-headers='{"X-CSRFToken": "{{ csrf_token }}"}'>
+    Delete item
+</button>
 ```
 
 
