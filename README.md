@@ -1,3 +1,13 @@
+### My cheat sheets
+
+* [Markdown (.MD files)](my_cheat_sheets/markdown/README.md)
+* [Git & GitHub](my_cheat_sheets/git/README.md)
+* [Python](my_cheat_sheets/python/README.md)
+* [Django](my_cheat_sheets/django/README.md)
+* [htmx & Django](my_cheat_sheets/htmx/README.md)
+* [PostgreSQL](my_cheat_sheets/postgresql/README.md)
+* [Linux terminal](my_cheat_sheets/linux/README.md)
+
 
 ### Hi there 👋 who I am?
 - :technologist: I'm Rami, a mechanical & industrial engineer
@@ -8,17 +18,6 @@
   - Per Post: Bei den Birken 8, 87435 Kempten (Germany) 
 - ⚡ A fact about me: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
 <img src="images/birthlocation.jpg">
-
-
-### My cheat sheets
-
-* [Markdown (.MD files)](my_cheat_sheets/markdown/README.md)
-* [Git & GitHub](my_cheat_sheets/git/README.md)
-* [Python](my_cheat_sheets/python/README.md)
-* [Django](my_cheat_sheets/django/README.md)
-* [HTMX](my_cheat_sheets/htmx/README.md)
-* [PostgreSQL](my_cheat_sheets/postgresql/README.md)
-* [Linux terminal](my_cheat_sheets/linux/README.md)
 
 
 
