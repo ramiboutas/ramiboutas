@@ -15,7 +15,6 @@
 - 👯 I’m looking to collaborate on Django projects
 - 📫 How to reach me via:
   - [Linkedin][myLinkedinPage]
-  - Per Post: Bei den Birken 8, 87435 Kempten (Germany) 
 - ⚡ A fact about me: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
 <img src="images/birthlocation.jpg">
 
