@@ -33,7 +33,7 @@ sudo -u postgres psql
 ```
 CREATE DATABASE mydb;
 CREATE USER myuser WITH PASSWORD 'mypass';
-ALTER ROLE myuser SET client_endcoding TO 'utf-8';
+ALTER ROLE myuser SET client_encoding TO 'utf-8';
 ALTER ROLE myuser SET timezone TO 'UTC';
 ALTER ROLE myuser SET default_transaction_isolation TO 'read committed';
 ```
