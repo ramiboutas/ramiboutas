@@ -18,6 +18,16 @@
 <p>This website will enable you to learn and practice english with quizzes. It is totally free and no registration is needed.</p>
 <p>🌐 Website: <a href="https://englishstuff.online" title="Check out!">englishstuff.online</a></p>
 <p>💻 Source code: <a href="https://github.com/ramiboutas/englishquiz" title="Check out!">github.com/ramiboutas/englishquiz</a> </p>
+<h2>Cover letters</h2>
+<p>Create multiple cover letters in minutes for free and without registration</p>
+<p>🌐 Website: <a href="https://coverletters.online" title="Check out!">coverletters.online</a></p>
+<p>💻 Source code: <a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </p>
+<h2>Create nice CVs (in development...)</h2>
+<p>This site (SaaS) will enable you to create high quality CVs</p>
+<p>🌐 Website: <a href="https://nicecv.online" title="Check out!">nicecv.online</a></p>
+<p>💻 Source code: <a href="https://github.com/ramiboutas/nicecv" title="Check out!">github.com/ramiboutas/nicecv</a></p>
+<h2>More</h2>
+<p>Check my github profile: <a href="https://github.com/ramiboutas" title="Check out!">https://github.com/ramiboutas</a> </p>
 
 ## Latest blog posts
 
