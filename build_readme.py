@@ -44,7 +44,7 @@ def get_projects():
     heading = soup.body.find("section", id="content").find("h2")
     for elem in heading.next_siblings:
         if elem.name != "img" and str(elem).strip():
-            yield str(elem).replace("## ", "### ")
+            yield str(elem)
 
 
 def get_latest_posts():
