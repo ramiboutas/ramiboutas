@@ -1,31 +1,17 @@
-### My cheat sheets
+<p><img align="right" height="128" src="https://www.ramiboutas.com/images/me/myface.png" width="128"/></p>
+<p>👋 Hi, I'm Rami, welcome to my GitHub bio.</p>
+<p>👷 Officially I am a mechanical &amp; industrial engineer. I came accross with programming (or coding) by using MATLAB during my studies.</p>
+<p>😐 OK... working with MATLAB may not be programming/coding for some developers, but for me it was and still it is. </p>
+<p>📚 In Summer 2019, I decided to learn the real programming languages (C#, Java , JavaScript and Python). I sticked with Python due these reasons: huge amount of libraries, language syntax and simple to understand.</p>
+<p>👨🏽‍💻 Now, I exercise mentally with coding and physically in the gym.</p>
+<p>🏋️‍♀️ Sometimes, I consider my <em>self</em> as a nerd who lifts weights. </p>
+<p>🧠 Learning about Psychology &amp; human behavior fascinates me.</p>
+<p><img align="right" height="128" src="https://www.ramiboutas.com/images/me/birthlocation.jpg" width="128"/></p>
+<p>🐣 I was born in the Rif (Morroco) at home, see pic 👉</p>
+<p>🏫 I grown up in Spain</p>
+<p>🚞 Now, I'm based in Kempten, Germany.</p>
 
-* [Markdown (.MD files)](my_cheat_sheets/markdown/README.md)
-* [Git & GitHub](my_cheat_sheets/git/README.md)
-* [Python](my_cheat_sheets/python/README.md)
-* [Django](my_cheat_sheets/django/README.md)
-* [htmx & Django](my_cheat_sheets/htmx/README.md)
-* [PostgreSQL](my_cheat_sheets/postgresql/README.md)
-* [Linux terminal](my_cheat_sheets/linux/README.md)
+## Latest blog posts
 
-
-### Hi there 👋 who I am?
-- :technologist: I'm Rami, a mechanical & industrial engineer
-- :computer: I’m using [Ubuntu 20.04][ubuntu20_04]
-- 👯 I’m looking to collaborate on Django projects
-- 📫 How to reach me via:
-  - [Linkedin][myLinkedinPage]
-- ⚡ A fact about me: I was born at home (pic below) in the [Rif][Riflink] & I'm proud of it
-<img src="images/birthlocation.jpg">
-
-
-
-### Deployment platforms 
-I really recomend DigitalOcean for its simplifcity and its bunch of tutorials that they provide.
-[![DigitalOcean Referral Badge](https://web-platforms.sfo2.digitaloceanspaces.com/WWW/Badge%203.svg)](https://www.digitalocean.com/?refcode=f1af247b90c6&utm_campaign=Referral_Invite&utm_medium=Referral_Program&utm_source=badge)
-
-
-<!-- links used in this file -->
-[Riflink]:https://en.wikipedia.org/wiki/Rif
-[myLinkedinPage]:https://www.linkedin.com/in/ramiboutas/
-[ubuntu20_04]:https://releases.ubuntu.com/20.04/
+* [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail/how-to-publish-scheduled-pages-on-wagtail.html) (2022-10-02)
+* [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django/translations-with-deepl-api-in-a-django-project.html) (2022-10-02)
