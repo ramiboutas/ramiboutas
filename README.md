@@ -15,17 +15,13 @@
 
 ## My projects
 
-<p>This website will enable you to learn and practice english with quizzes. It is totally free and no registration is needed.</p>
-<p>🌐 Website: <a href="https://englishstuff.online" title="Check out!">englishstuff.online</a></p>
-<p>💻 Source code: <a href="https://github.com/ramiboutas/englishquiz" title="Check out!">github.com/ramiboutas/englishquiz</a> </p>
-<h2>Cover letters</h2>
-<p>Create multiple cover letters in minutes for free and without registration</p>
-<p>🌐 Website: <a href="https://coverletters.online" title="Check out!">coverletters.online</a></p>
-<p>💻 Source code: <a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </p>
-<h2>Create nice CVs (in development...)</h2>
-<p>This site (SaaS) will enable you to create high quality CVs</p>
-<p>🌐 Website: <a href="https://nicecv.online" title="Check out!">nicecv.online</a></p>
-<p>💻 Source code: <a href="https://github.com/ramiboutas/nicecv" title="Check out!">github.com/ramiboutas/nicecv</a></p>
+<p>The projects that I am working on are either business focused projects or projects for me to learn stuff.</p>
+<p><strong>📚👨‍🏫 Learnig English Online</strong></p>
+<ul> <li> <p>Goal: this website will enable you to learn and practice english with quizzes. It is totally free and no registration is needed.</p> <li> <p>Links:</p> <li><a href="https://englishstuff.online" title="Check out!">englishstuff.online</a> <li><a href="https://github.com/ramiboutas/englishquiz" title="Check out!">github.com/ramiboutas/englishquiz</a> <li><a href="https://www.linkedin.com/company/english-stuff-online/" title="Check out!">Linkedin page</a> <li><a href="https://twitter.com/EnglishStuffOn" title="Check out!">Twitter account</a> <li> <p><a href="https://t.me/english_stuff_online" title="Check out!">Telegram channel</a></p> <li> <p>Future implementation and integrations: </p> <li>Afiliate integrations: Recommend English books and courses <li>Automate more stuff of social media (generating images from quiz questions and so on...) </li></li></li></li></li></li></li></li></li></li></ul>
+<p><strong>💌💼 Cover letters</strong></p>
+<ul> <li> <p>Goal: create multiple cover letters in minutes for free and without registration</p> <li> <p>Links:</p> <li><a href="https://coverletters.online" title="Check out!">coverletters.online</a> <li> <p><a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </p> <li> <p>Future implementation and integrations: </p> <li>Nothing planned... Nobody uses this, I though it would be very useful and easy to use but people don´t know how to use. <li>Domains for this web app will not be renewed... Maybe I´ll put the app on my current site under <em>ramiboutas.com/coverletters</em> or something... </li></li></li></li></li></li></li></ul>
+<p><strong>📑👩‍⚕️ Nice CV (in development...)</strong></p>
+<ul> <li> <p>Goal: this site (SaaS) will enable you to create high quality CVs</p> <li> <p>Links: </p> <li> <p><a href="https://nicecv.online" title="Check out!">nicecv.online</a></p> <li> <p><a href="https://github.com/ramiboutas/nicecv" title="Check out!">github.com/ramiboutas/nicecv</a></p> <li> <p>Future implementation and integrations: </p> <li>So much stuff needs to be done in this project that I think I need to quit my main job to do all I want to do. <li>I need to learn more about working better with LaTeX custom class documents, mong other stuff... </li></li></li></li></li></li></li></ul>
 
 ## Latest blog posts
 
