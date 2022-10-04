@@ -16,24 +16,45 @@
 ## My projects
 
 <p>The projects that I am working on are either business focused projects or projects for me to learn stuff.</p>
-<p><strong>📚👨‍🏫 Learnig English Online</strong></p>
+<p><strong>📚👨‍🏫 Learning English Online</strong></p>
 <p>Goal: This website will enable you to learn and practice english with quizzes. It is totally free and no registration is needed.</p>
 <p>Links:</p>
-<ul> <li><a href="https://englishstuff.online" title="Check out!">englishstuff.online</a> <li><a href="https://github.com/ramiboutas/englishquiz" title="Check out!">github.com/ramiboutas/englishquiz</a> <li><a href="https://www.linkedin.com/company/english-stuff-online/" title="Check out!">Linkedin page</a> <li><a href="https://twitter.com/EnglishStuffOn" title="Check out!">Twitter account</a> <li><a href="https://t.me/english_stuff_online" title="Check out!">Telegram channel</a> </li></li></li></li></li></ul>
+<ul>
+<li><a href="https://englishstuff.online" title="Check out!">englishstuff.online</a></li>
+<li><a href="https://github.com/ramiboutas/englishquiz" title="Check out!">github.com/ramiboutas/englishquiz</a> </li>
+<li><a href="https://www.linkedin.com/company/english-stuff-online/" title="Check out!">Linkedin page</a></li>
+<li><a href="https://twitter.com/EnglishStuffOn" title="Check out!">Twitter account</a></li>
+<li><a href="https://t.me/english_stuff_online" title="Check out!">Telegram channel</a></li>
+</ul>
 <p>Future implementation and integrations: </p>
-<ul> <li>Afiliate integrations: Recommend English books and courses <li>Automate more stuff of social media (generating images from quiz questions and so on...) </li></li></ul>
+<ul>
+<li>Afiliate integrations: Recommend English books and courses</li>
+<li>Automate more stuff of social media (generating images from quiz questions and so on...)</li>
+</ul>
 <p><strong>💌💼 Cover letters</strong></p>
 <p>Goal: Create multiple cover letters in minutes for free and without registration</p>
 <p>Links:</p>
-<ul> <li><a href="https://coverletters.online" title="Check out!">coverletters.online</a> <li><a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </li></li></ul>
+<ul>
+<li><a href="https://coverletters.online" title="Check out!">coverletters.online</a></li>
+<li><a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </li>
+</ul>
 <p>Future implementation and integrations: </p>
-<ul> <li>Nothing planned... Nobody uses this, I though it would be very useful and easy to use but people don´t know how to use. <li>Domains for this web app will not be renewed... Maybe I´ll put the app on my current site under <em>ramiboutas.com/coverletters</em> or something... </li></li></ul>
+<ul>
+<li>Nothing planned... Nobody uses this, I though it would be very useful and easy to use but people don´t know how to use.</li>
+<li>Domains for this web app will not be renewed... Maybe I´ll put the app on my current site under <em>ramiboutas.com/coverletters</em> or something... </li>
+</ul>
 <p><strong>📑👩‍⚕️ Nice CV (in development...)</strong></p>
 <p>Goal: This site (SaaS) will enable you to create high quality CVs</p>
 <p>Links: </p>
-<ul> <li><a href="https://nicecv.online" title="Check out!">nicecv.online</a> <li><a href="https://github.com/ramiboutas/nicecv" title="Check out!">github.com/ramiboutas/nicecv</a> </li></li></ul>
+<ul>
+<li><a href="https://nicecv.online" title="Check out!">nicecv.online</a></li>
+<li><a href="https://github.com/ramiboutas/nicecv" title="Check out!">github.com/ramiboutas/nicecv</a></li>
+</ul>
 <p>Future implementation and integrations: </p>
-<ul> <li>So much stuff needs to be done in this project that I think I need to quit my main job to do all I want to do. <li>I need to learn more about working better with LaTeX custom class documents, among other stuff... </li></li></ul>
+<ul>
+<li>So much stuff needs to be done in this project that I think I need to quit my main job to do all I want to do.</li>
+<li>I need to learn more about working better with LaTeX custom class documents, among other stuff... </li>
+</ul>
 
 ## Latest blog posts
 
