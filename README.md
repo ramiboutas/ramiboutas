@@ -33,7 +33,7 @@
 <p>Links: </p>
 <ul> <li><a href="https://nicecv.online" title="Check out!">nicecv.online</a> <li><a href="https://github.com/ramiboutas/nicecv" title="Check out!">github.com/ramiboutas/nicecv</a> </li></li></ul>
 <p>Future implementation and integrations: </p>
-<ul> <li>So much stuff needs to be done in this project that I think I need to quit my main job to do all I want to do. <li>I need to learn more about working better with LaTeX custom class documents, mong other stuff... </li></li></ul>
+<ul> <li>So much stuff needs to be done in this project that I think I need to quit my main job to do all I want to do. <li>I need to learn more about working better with LaTeX custom class documents, among other stuff... </li></li></ul>
 
 ## Latest blog posts
 
