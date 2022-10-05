@@ -58,5 +58,6 @@
 
 ## Latest blog posts
 
+* [How to import a csv file using VBA](https://www.ramiboutas.com/articles/excel/how-to-import-a-csv-file-using-vba.html) (2022-10-04)
 * [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail/how-to-publish-scheduled-pages-on-wagtail.html) (2022-10-02)
 * [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django/translations-with-deepl-api-in-a-django-project.html) (2022-10-02)
