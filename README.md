@@ -14,6 +14,12 @@
 <p>🚞 Now, I'm based in Kempten, Germany.</p>
 <p><br/></p>
 
+## Latest blog posts
+
+* [How to import in Excel a csv file using VBA](https://www.ramiboutas.com/articles/excel/how-to-import-in-excel-a-csv-file-using-vba.html) (2022-10-04)
+* [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail/how-to-publish-scheduled-pages-on-wagtail.html) (2022-10-02)
+* [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django/translations-with-deepl-api-in-a-django-project.html) (2022-10-02)
+
 ## My projects
 
 <p>The projects that I am working on are either business-focused projects or projects for me to learn stuff.</p>
@@ -35,9 +41,3 @@
 <p>Stack: Django, Celery, Redis, LaTex, htmx, Bootstrap, and more!</p>
 <p>Links: </p>
 <ul> <li><a href="https://nicecv.online" title="Check out!">nicecv.online</a> <li><a href="https://github.com/ramiboutas/nicecv" title="Check out!">github.com/ramiboutas/nicecv</a> </li></li></ul>
-
-## Latest blog posts
-
-* [How to import in Excel a csv file using VBA](https://www.ramiboutas.com/articles/excel/how-to-import-in-excel-a-csv-file-using-vba.html) (2022-10-04)
-* [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail/how-to-publish-scheduled-pages-on-wagtail.html) (2022-10-02)
-* [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django/translations-with-deepl-api-in-a-django-project.html) (2022-10-02)
