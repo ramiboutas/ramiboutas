@@ -11,10 +11,11 @@ def main():
     chunks.append("## Bio\n")
     chunks.extend(get_bio())
     chunks.append('')
+    chunks.extend(get_latest_posts())
+    chunks.append('')
     chunks.append("## My projects\n")
     chunks.extend(get_projects())
-    chunks.append('')
-    chunks.extend(get_latest_posts())
+
 
     readme = Path(__file__).parent / "README.md"
     readme.write_text("\n".join(chunks))
