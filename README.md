@@ -2,11 +2,9 @@
 
 <p><img align="right" height="128" src="https://www.ramiboutas.com/images/me/myface.png" width="128"/></p>
 <p>👋 Hi, I'm Rami, welcome to my GitHub bio.</p>
-<p>👷 Officially I am a mechanical &amp; industrial engineer. I came accross with programming (or coding) by using MATLAB during my studies.</p>
-<p>😐 OK... working with MATLAB may not be programming/coding for some developers, but for me it was and still it is. </p>
-<p>📚 In Summer 2019, I decided to learn the real programming languages (C#, Java , JavaScript and Python). I sticked with Python due these reasons: huge amount of libraries, language syntax and simple to understand.</p>
-<p>👨🏽‍💻 Now, I exercise mentally with coding and physically in the gym.</p>
-<p>🏋️‍♀️ Sometimes, I consider my<code>self</code> as a nerd who lifts weights. </p>
+<p>👷 Passionate engineer 👨🏽‍💻 I enjoy creating software.</p>
+<p>👨🏽‍💻 I exercise mentally with coding and physically in the gym.</p>
+<p>🏋️‍♀️ Sometimes, I consider myself as a nerd who lifts weights.</p>
 <p>🧠 Learning about Psychology &amp; human behavior fascinates me.</p>
 <p><img align="right" height="128" src="https://www.ramiboutas.com/images/me/birthlocation.jpg" width="128"/></p>
 <p>🐣 I was born in the Rif (Morroco) at home, see pic 👉</p>
@@ -24,7 +22,7 @@
 
 <p>The projects that I am working on are either business-focused projects or projects for me to learn stuff.</p>
 <p><br/></p>
-<p><strong>📚👨‍🏫 Learning English Online</strong></p>
+<p><strong>📚👨‍🏫 Learning English Online </strong></p>
 <p>Goal: This website will enable you to learn and practice english with quizzes. It is totally free and no registration is needed.</p>
 <p>Stack: Django, Celery, Redis, htmx, Bootstrap, and more!</p>
 <p>Links:</p>
@@ -39,5 +37,5 @@
 <p><strong>📑👩‍⚕️ Nice CV (in development...)</strong></p>
 <p>Goal: This site (SaaS) will enable you to create high quality CVs</p>
 <p>Stack: Django, Celery, Redis, LaTex, htmx, Bootstrap, and more!</p>
-<p>Links: </p>
+<p>Links:</p>
 <ul> <li><a href="https://nicecv.online" title="Check out!">nicecv.online</a> <li><a href="https://github.com/ramiboutas/nicecv" title="Check out!">github.com/ramiboutas/nicecv</a> </li></li></ul>
