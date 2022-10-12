@@ -4,8 +4,8 @@
 <p>👋 Hi, I'm Rami, welcome to my GitHub bio.</p>
 <p>👷 Passionate engineer 👨🏽‍💻 I enjoy creating software.</p>
 <p>👨🏽‍💻 I exercise mentally with coding and physically in the gym.</p>
-<p>🏋️‍♀️ Sometimes, I consider myself as a nerd who lifts weights.</p>
-<p>🧠 Learning about Psychology &amp; human behavior fascinates me.</p>
+<p>🏋️‍♀️ Sometimes, I consider myself a nerd who lifts weights.</p>
+<p>🧠 Learning about Psychology &amp; human behaviour fascinates me.</p>
 <p><img align="right" height="128" src="https://www.ramiboutas.com/images/me/birthlocation.jpg" width="128"/></p>
 <p>🐣 I was born in the Rif (Morocco) at home, see pic 👉</p>
 <p>🏫 I grew up in Spain</p>
