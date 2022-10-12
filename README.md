@@ -7,8 +7,8 @@
 <p>🏋️‍♀️ Sometimes, I consider myself as a nerd who lifts weights.</p>
 <p>🧠 Learning about Psychology &amp; human behavior fascinates me.</p>
 <p><img align="right" height="128" src="https://www.ramiboutas.com/images/me/birthlocation.jpg" width="128"/></p>
-<p>🐣 I was born in the Rif (Morroco) at home, see pic 👉</p>
-<p>🏫 I grown up in Spain</p>
+<p>🐣 I was born in the Rif (Morocco) at home, see pic 👉</p>
+<p>🏫 I grew up in Spain</p>
 <p>🚞 Now, I'm based in Kempten, Germany.</p>
 <p><br/></p>
 
@@ -16,7 +16,7 @@
 
 * [How to import in Excel a csv file using VBA](https://www.ramiboutas.com/articles/excel/how-to-import-in-excel-a-csv-file-using-vba.html) (2022-10-04)
 * [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail/how-to-publish-scheduled-pages-on-wagtail.html) (2022-10-02)
-* [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django/translations-with-deepl-api-in-a-django-project.html) (2022-10-02)
+* [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django/translations-with-deepl-api-in-a-django-project.html) (2022-10-12)
 
 ## My projects
 
