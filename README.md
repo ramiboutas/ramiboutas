@@ -33,7 +33,7 @@
 <p>Goal: Create multiple cover letters in minutes for free and without registration</p>
 <p>Stack: Django, Celery, Redis, LaTex, htmx, Bootstrap, and more!</p>
 <p>Links:</p>
-<ul> <li><a href="https://coverletters.online" title="Check out!">coverletters.online</a> <li><a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </li></li></ul>
+<ul> <li><a href="https://www.ramiboutas.com/coverletters/" title="Check out!">coverletters</a> <li><a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </li></li></ul>
 <p><br/></p>
 <p><strong>📑👩‍⚕️ Nice CV (in development...)</strong></p>
 <p>Goal: This site (SaaS) will enable you to create high quality CVs</p>
