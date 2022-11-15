@@ -27,13 +27,13 @@
 <p>Goal: This website will enable you to learn and practice english with quizzes. It is totally free and no registration is needed.</p>
 <p>Stack: Django, Celery, Redis, htmx, Bootstrap, and more!</p>
 <p>Links:</p>
-<ul> <li><a href="https://englishstuff.online" title="Check out!">englishstuff.online</a> <li><a href="https://github.com/ramiboutas/englishquiz" title="Check out!">github.com/ramiboutas/englishquiz</a> <li><a href="https://www.linkedin.com/company/english-stuff-online/" title="Check out!">Linkedin page</a> <li><a href="https://twitter.com/EnglishStuffOn" title="Check out!">Twitter account</a> <li><a href="https://t.me/english_stuff_online" title="Check out!">Telegram channel</a> </li></li></li></li></li></ul>
+<ul> <li><a href="https://englishstuff.online" title="Check out!">Website</a> <li><a href="https://github.com/ramiboutas/englishquiz" title="Check out!">github.com/ramiboutas/englishquiz</a> <li><a href="https://www.linkedin.com/company/english-stuff-online/" title="Check out!">Linkedin</a> <li><a href="https://twitter.com/EnglishStuffOn" title="Check out!">Twitter</a> <li><a href="https://t.me/english_stuff_online" title="Check out!">Telegram</a> </li></li></li></li></li></ul>
 <p><br/></p>
 <p><strong>💌💼 Cover letters</strong></p>
 <p>Goal: Create multiple cover letters in minutes for free and without registration</p>
 <p>Stack: Django, Celery, Redis, LaTex, htmx, Bootstrap, and more!</p>
 <p>Links:</p>
-<ul> <li><a href="https://www.ramiboutas.com/coverletters/" title="Check out!">coverletters</a> <li><a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </li></li></ul>
+<ul> <li><a href="https://coverletters.ramiboutas.com" title="Check out!">Website</a> <li><a href="https://github.com/ramiboutas/coverletters" title="Check out!">github.com/ramiboutas/coverletters</a> </li></li></ul>
 <p><br/></p>
 <p><strong>📑👩‍⚕️ Nice CV (in development...)</strong></p>
 <p>Goal: This site (SaaS) will enable you to create high quality CVs</p>
