@@ -14,10 +14,10 @@
 
 ## Latest blog posts
 
-* [Create a custom app template when running startapp on a django project](https://www.ramiboutas.com/articles/django/create-a-custom-app-template-when-running-startapp-on-a-django-project.html) (2022-11-02)
-* [How to import in Excel a csv file using VBA](https://www.ramiboutas.com/articles/excel/how-to-import-in-excel-a-csv-file-using-vba.html) (2022-10-04)
-* [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail/how-to-publish-scheduled-pages-on-wagtail.html) (2022-10-02)
-* [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django/translations-with-deepl-api-in-a-django-project.html) (2022-10-12)
+* [Create a custom app template when running startapp on a django project](https://www.ramiboutas.com/articles/django/create-a-custom-app-template-when-running-startapp-on-a-django-project/) (2022-11-02)
+* [How to import in Excel a csv file using VBA](https://www.ramiboutas.com/articles/excel/how-to-import-in-excel-a-csv-file-using-vba/) (2022-10-04)
+* [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail/how-to-publish-scheduled-pages-on-wagtail/) (2022-10-02)
+* [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django/translations-with-deepl-api-in-a-django-project/) (2022-10-12)
 
 ## My projects
 
