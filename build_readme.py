@@ -37,7 +37,7 @@ def get_bio():
 
 def get_projects():
     # Get projects from my website
-    response = requests.get("https://www.ramiboutas.com/pages/projects.html")
+    response = requests.get("https://www.ramiboutas.com/pages/projects/")
     if response.status_code != 200:
         raise ValueError("Unexpected response status code {response.status_code}")
     
