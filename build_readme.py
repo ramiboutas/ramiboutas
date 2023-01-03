@@ -37,7 +37,7 @@ def get_bio():
 
 def get_projects():
     # Get projects from my website
-    response = requests.get("https://www.ramiboutas.com/pages/projects/")
+    response = requests.get("https://www.ramiboutas.com/projects/")
     if response.status_code != 200:
         raise ValueError("Unexpected response status code {response.status_code}")
     
@@ -50,7 +50,7 @@ def get_projects():
 
 def get_latest_posts():
     chunks = ["## Latest blog posts\n"]
-    posts = feedparser.parse("https://www.ramiboutas.com/feeds/all.atom.xml")["entries"][:5]
+    posts = feedparser.parse("https://www.ramiboutas.com/feeds/all.atom.xml")["entries"][:10]
     chunks.extend(
         [
             f'* [{post["title"]}]({post["link"]}) ({post["updated"].split("T")[0]})'
