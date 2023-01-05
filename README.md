@@ -14,6 +14,8 @@
 
 ## Latest blog posts
 
+* [Holiday planner 2023 (DE, CH, AT)](https://www.ramiboutas.com/articles/excel/holiday-planner-in-german-2023/) (2023-01-05)
+* [Urlaubsplanner 2023 (DE, CH, AT)](https://www.ramiboutas.com/articles/excel/holiday-planner-in-german-2023-de/) (2023-01-05)
 * [Create a custom app template when running startapp on a django project](https://www.ramiboutas.com/articles/django/create-a-custom-app-template-when-running-startapp-on-a-django-project/) (2022-11-02)
 * [How to import in Excel a csv file using VBA](https://www.ramiboutas.com/articles/excel/how-to-import-in-excel-a-csv-file-using-vba/) (2022-10-04)
 * [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail/how-to-publish-scheduled-pages-on-wagtail/) (2022-10-02)
