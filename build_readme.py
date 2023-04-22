@@ -7,10 +7,11 @@ from bs4 import BeautifulSoup
 
 def main():
     chunks = []
-    chunks.append("## Bio\n")
     chunks.extend(get_bio())
     chunks.append("")
     chunks.extend(get_latest_posts())
+    chunks.append("")
+    chunks.extend(on_social_media())
     chunks.append("")
 
     readme = Path(__file__).parent / "README.md"
@@ -27,6 +28,17 @@ def get_bio():
     for elem in heading.next_siblings:
         if elem.name != "img" and str(elem).strip():
             yield str(elem).replace("welcome to my site", "welcome to my GitHub bio")
+
+
+def on_social_media():
+    response = requests.get("https://www.ramiboutas.com/")
+    if response.status_code != 200:
+        raise ValueError("Unexpected response status code {response.status_code}")
+    soup = BeautifulSoup(response.content.decode(), "html.parser")
+    heading = soup.body.find("h2")
+    for elem in heading.next_siblings:
+        if elem.name != "img" and str(elem).strip():
+            yield str(elem)
 
 
 def get_latest_posts():
