@@ -10,6 +10,8 @@
 * [How to publish scheduled pages on Wagtail](https://www.ramiboutas.com/articles/wagtail-publish-scheduled-pages/) (2022-10-02)
 * [Translations with DeepL API in a Django project](https://www.ramiboutas.com/articles/django-translations-with-deepl-api/) (2022-10-12)
 
+## On social media
+
 <div><time class="text-gray-500" datetime="2023-03-25T09:40:04">📝 2023-03-25 09:40:04</time><br/><p>If feels so good when you have to write less code. <br/><br/>In this example I simplified a lot my django model forms but using python class inheritance.</p><img src="https://ramiboutas.fra1.cdn.digitaloceanspaces.com/telegram-actions-media/telegram-files/documents/file_104.png"/><br/><br/></div>
 <div><time class="text-gray-500" datetime="2023-03-01T18:10:04">📝 2023-03-01 18:10:04</time><br/><p>Practice your English vocabulary in my site<br/><br/><a href="https://www.englishstuff.online/quiz/vocabulary-adjectives/4/lection-01/1350/" target="_blank">https://www.englishstuff.online/quiz/vocabulary-adjectives/4/lection-01/1350/</a></p><img src="https://ramiboutas.fra1.cdn.digitaloceanspaces.com/telegram-actions-media/telegram-files/documents/file_100.png"/><br/><br/></div>
 <div><time class="text-gray-500" datetime="2023-02-19T17:35:04">📝 2023-02-19 17:35:04</time><br/><p>I have created this Excel template for managing a Personal Budget.<br/><br/>Check it out if you are interested:<br/><br/><a href="https://www.etsy.com/listing/1421160305/personal-budget-manager" target="_blank">https://www.etsy.com/listing/1421160305/personal-budget-manager</a></p><img src="https://ramiboutas.fra1.cdn.digitaloceanspaces.com/telegram-actions-media/telegram-files/documents/file_97.JPG"/><br/><br/></div>
