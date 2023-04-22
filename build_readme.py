@@ -9,8 +9,10 @@ def main():
     chunks = []
     chunks.extend(get_bio())
     chunks.append("")
+    chunks.append("## Latest blog posts\n")
     chunks.extend(get_latest_posts())
     chunks.append("")
+    chunks.append("## On social media\n")
     chunks.extend(on_social_media())
     chunks.append("")
 
@@ -42,7 +44,7 @@ def on_social_media():
 
 
 def get_latest_posts():
-    chunks = ["## Latest blog posts\n"]
+    chunks = []
     posts = feedparser.parse("https://www.ramiboutas.com/feeds/all.atom.xml")[
         "entries"
     ][:10]
