@@ -3,6 +3,7 @@
 
 ## Latest blog posts
 
+* [Group your Django apps in a directory](https://www.ramiboutas.com/articles/django-group-your-apps-in-a-directory/) (2023-04-24)
 * [Holiday planner 2023 (DE, CH, AT)](https://www.ramiboutas.com/articles/excel-holiday-planner-in-german-2023/) (2023-01-05)
 * [Urlaubsplanner 2023 (DE, CH, AT)](https://www.ramiboutas.com/articles/excel-urlaub-planner-auf-deutsch-2023/) (2023-01-05)
 * [Create a django custom app template](https://www.ramiboutas.com/articles/django-custom-app-template/) (2022-11-02)
