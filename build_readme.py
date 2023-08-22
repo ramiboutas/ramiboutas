@@ -12,9 +12,9 @@ def main():
     chunks.append("## Latest blog posts\n")
     chunks.extend(get_latest_posts())
     chunks.append("")
-    chunks.append("## On social media\n")
-    chunks.extend(on_social_media())
-    chunks.append("")
+    # chunks.append("## On social media\n")
+    # chunks.extend(on_social_media())
+    # chunks.append("")
 
     readme = Path(__file__).parent / "README.md"
     readme.write_text("\n".join(chunks))
