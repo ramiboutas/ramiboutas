@@ -22,7 +22,7 @@ def main():
 
 def get_bio():
     # Get bio from my website to avoid duplication
-    response = requests.get("https://www.ramiboutas.com/me/")
+    response = requests.get("https://ramiboutas.com/me/")
     if response.status_code != 200:
         raise ValueError("Unexpected response status code {response.status_code}")
     soup = BeautifulSoup(response.content.decode(), "html.parser")
@@ -33,7 +33,7 @@ def get_bio():
 
 
 def on_social_media():
-    response = requests.get("https://www.ramiboutas.com/")
+    response = requests.get("https://ramiboutas.com/")
     if response.status_code != 200:
         raise ValueError("Unexpected response status code {response.status_code}")
     soup = BeautifulSoup(response.content.decode(), "html.parser")
@@ -45,9 +45,9 @@ def on_social_media():
 
 def get_latest_posts():
     chunks = []
-    posts = feedparser.parse("https://www.ramiboutas.com/feeds/all.atom.xml")[
-        "entries"
-    ][:10]
+    posts = feedparser.parse("https://ramiboutas.com/feeds/all.atom.xml")["entries"][
+        :10
+    ]
     chunks.extend(
         [
             f'* [{post["title"]}]({post["link"]}) ({post["updated"].split("T")[0]})'
