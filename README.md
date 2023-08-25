@@ -3,6 +3,7 @@
 
 ## Latest blog posts
 
+* [Deploy a Gunicorn application using a Cloudflare tunnel](https://ramiboutas.com/articles/cloudflare-tunnel-to-deploy-a-gunicorn-application/) (2023-08-25)
 * [Group your Django apps in a directory](https://ramiboutas.com/articles/django-group-your-apps-in-a-directory/) (2023-04-24)
 * [Holiday planner 2023 (DE, CH, AT)](https://ramiboutas.com/articles/excel-holiday-planner-in-german-2023/) (2023-01-05)
 * [Urlaubsplanner 2023 (DE, CH, AT)](https://ramiboutas.com/articles/excel-urlaub-planner-auf-deutsch-2023/) (2023-01-05)
